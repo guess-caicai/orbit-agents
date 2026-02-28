@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -36,7 +39,8 @@
     "Python.multi_kb.executor": "Run",
     "Python.tools.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/workspace/AgentProject-V2.0",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/guess/Desktop/毕设+论文/orbit-agents",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,6 +123,7 @@
       <workItem from="1770709661386" duration="60000" />
       <workItem from="1770709743864" duration="16603000" />
       <workItem from="1772242811191" duration="629000" />
+      <workItem from="1772275836562" duration="16000" />
     </task>
     <servers />
   </component>
