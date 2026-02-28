@@ -1,0 +1,11 @@
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.ipynb_checkpoints/
+**/.env
+**/knowledge.db
+**/.DS_Store
+**/.git
+**/.gitignore
+**/node_modules/
