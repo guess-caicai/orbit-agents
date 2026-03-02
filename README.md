@@ -2,7 +2,7 @@
 
 > A production-grade multi-agent backend with decision-routing orchestration.
 >
-> “轨道特工”面向生产的多智能体决策与编排后端框架
+> “轨道特工”是一款面向生产的多智能体决策与编排后端框架，你可以应用它实现任何智能应用或平台的快速搭建
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-API-green.svg)](#)
